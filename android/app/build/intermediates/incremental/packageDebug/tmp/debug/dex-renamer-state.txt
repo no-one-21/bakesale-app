@@ -1,0 +1,4 @@
+#Tue Dec 18 23:25:27 IST 2018
+base.0=/home/rj/Documents/react-apps/bakesale/bakesale/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

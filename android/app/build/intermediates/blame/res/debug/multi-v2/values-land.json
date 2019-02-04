@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rj/Documents/react-apps/bakesale/bakesale/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/rj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9752a959b5538eb2004e809e4438926d/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}
